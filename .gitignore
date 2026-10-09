@@ -1,0 +1,12 @@
+# Secrets (never commit these)
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Notebook and index files
+.ipynb_checkpoints/
+faiss_index/
